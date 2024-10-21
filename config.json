@@ -1,0 +1,19 @@
+{
+    "speedStep": 5,
+    "maxSpeed": 30,
+    "minSpeed": 10,
+    "maxPlayers": 10,
+    "minPlayers": 1,
+    "maxTrackLength": 2500,
+    "minTrackLength": 500,
+    "defaultTrackLength": 1200,
+    "defaultSpeed": 10,
+    "minBet": 0,
+    "maxBet": 5,
+    "defaultBet": 0.5,
+    "gameFee": 5,
+    "choiceTimeout": 3,
+    "defaultPlayers": 4,
+    "defauktTrackId": 1
+      
+}
