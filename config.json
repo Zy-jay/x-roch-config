@@ -14,6 +14,6 @@
     "gameFee": 5,
     "choiceTimeout": 3,
     "defaultPlayers": 4,
-    "defauktTrackId": 1
-      
+    "defauktTrackId": 1,
+    "tickUpdateInterval": 100 
 }
