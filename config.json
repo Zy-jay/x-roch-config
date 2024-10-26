@@ -15,5 +15,6 @@
     "choiceTimeout": 3,
     "defaultPlayers": 4,
     "defauktTrackId": 1,
-    "tickUpdateInterval": 100 
+    "tickUpdateInterval": 100,
+    "raceAutoStartDelay": 60
 }
