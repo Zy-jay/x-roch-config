@@ -16,5 +16,7 @@
     "defaultPlayers": 4,
     "defauktTrackId": 1,
     "tickUpdateInterval": 100,
-    "raceAutoStartDelay": 60
+    "raceAutoStartDelay": 60,
+    "gameFee": 7,
+    "feeWalletAddress": "UQCHPXENlrYnuXPyzvyKBOzNzUCVyViNrQXWo5FeV75RzQio"
 }
