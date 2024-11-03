@@ -11,12 +11,11 @@
     "minBet": 0,
     "maxBet": 5,
     "defaultBet": 0.5,
-    "gameFee": 5,
+    "gameFee": 7,
     "choiceTimeout": 3,
     "defaultPlayers": 4,
     "defauktTrackId": 1,
     "tickUpdateInterval": 100,
     "raceAutoStartDelay": 60,
-    "gameFee": 7,
     "feeWalletAddress": "UQCHPXENlrYnuXPyzvyKBOzNzUCVyViNrQXWo5FeV75RzQio"
 }
