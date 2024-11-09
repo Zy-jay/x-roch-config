@@ -1,5 +1,5 @@
 {
-    "speedStep": 10,
+    "speedStep": 5,
     "maxSpeed": 30,
     "minSpeed": 10,
     "maxPlayers": 10,
@@ -15,7 +15,10 @@
     "choiceTimeout": 3,
     "defaultPlayers": 4,
     "defauktTrackId": 1,
-    "tickUpdateInterval": 100,
     "raceAutoStartDelay": 60,
-    "feeWalletAddress": "UQCHPXENlrYnuXPyzvyKBOzNzUCVyViNrQXWo5FeV75RzQio"
+    "refRewardPercentageFirsLvl": 10,
+    "refRewardPercentageSecondLvl": 5,
+    "refRewardPercentageFirsLvlSecondPlace": 3,
+    "refRewardPercentageSecondLvlSecondPlace": 1.5,
+    "feeWalletAddress": "UQCHPXENlrYnuXPyzvyKBOzNzUCVyViNrQXWo5FeV75RzQio"      
 }
