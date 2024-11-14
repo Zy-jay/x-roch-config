@@ -20,5 +20,6 @@
     "refRewardPercentageSecondLvl": 5,
     "refRewardPercentageFirsLvlSecondPlace": 3,
     "refRewardPercentageSecondLvlSecondPlace": 1.5,
+    "tickUpdateInterval": 100,
     "feeWalletAddress": "UQCHPXENlrYnuXPyzvyKBOzNzUCVyViNrQXWo5FeV75RzQio"      
 }
