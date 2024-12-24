@@ -9,7 +9,7 @@
     "defaultTrackLength": 1200,
     "defaultSpeed": 10,
     "minBet": 0,
-    "maxBet": 5,
+    "maxBet": 50,
     "defaultBet": 0.5,
     "gameFee": 7,
     "choiceTimeout": 3,
